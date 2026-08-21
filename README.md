@@ -1224,6 +1224,12 @@ And one methodological rule:
 }
 ]
 
+
+And one methodological rule:
+
+Do not ask whether TTT is beautiful. Ask whether TTT survives testing.
+	​
+
 ---
 
 # 33. Status
